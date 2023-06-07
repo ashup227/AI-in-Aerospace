@@ -1,1 +1,1 @@
-# AI-Project-in-Aerospace
+# AI-in-Aerospace
